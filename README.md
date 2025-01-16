@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeepakArya05
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Game Development
+- 🌱 I’m currently working as a Interactive Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
